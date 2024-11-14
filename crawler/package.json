@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register src/index"
+  },
+  "dependencies": {
+    "firebase": "^11.0.1",
+    "node-schedule": "^2.1.1",
+    "puppeteer": "^23.7.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node-schedule": "^2.1.7",
+    "@types/puppeteer": "^5.4.7",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.6.3"
+  }
+}
