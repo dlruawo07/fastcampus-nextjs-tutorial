@@ -1,4 +1,3 @@
-import { Article } from "@/types";
 import ArticleItem from "../Common/ArticleItem";
 import { getArticles } from "@/app/api/articles/getArticles";
 
